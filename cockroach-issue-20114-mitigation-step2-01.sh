@@ -28,7 +28,6 @@ Description=CockroachDB Lease Trigger Timer: Timer to periodically defuse lease 
 OnBootSec=5sec
 OnUnitActiveSec=10min
 
-
 [Install]
 WantedBy=multi-user.target
 EOF
